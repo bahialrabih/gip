@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "Lightning Web Components project using LWR for GitHub Pages",
   "scripts": {
-    "build": "lwr build --mode prod",
+    "build": "lwr build",
     "dev": "lwr dev",
-    "start": "lwr start"
+    "start": "lwr start --mode prod"
   },
   "keywords": ["lwc", "lwr", "lightning-web-components"],
   "author": "",
