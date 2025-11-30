@@ -11,11 +11,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "lwr": "^0.13.0",
-    "lwc": "^8.26.0"
-  },
-  "devDependencies": {
-    "@lwc/module-resolver": "^8.26.0"
+    "lwr": "^0.13.0"
   },
   "engines": {
     "node": ">=18.0.0"
