@@ -5,7 +5,7 @@
   "scripts": {
     "build": "lwr build",
     "dev": "lwr dev",
-    "start": "lwr start --mode prod"
+    "start": "lwr start"
   },
   "keywords": ["lwc", "lwr", "lightning-web-components"],
   "author": "",

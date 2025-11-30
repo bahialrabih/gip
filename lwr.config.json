@@ -4,13 +4,19 @@
             { "dir": "$rootDir/src/modules" }
         ]
     },
+    "bundleConfig": {
+        "exclude": [
+            "lwc",
+            "@lwc/synthetic-shadow"
+        ]
+    },
     "layoutsDir": "$rootDir/src/layouts",
     "routes": [
         {
             "id": "home",
             "path": "/",
             "rootComponent": "app/app",
-            "layoutTemplate": "main.html"
+            "layoutTemplate": "$layoutsDir/main.njk"
         }
     ]
 }
