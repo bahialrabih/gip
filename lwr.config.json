@@ -4,12 +4,6 @@
             { "dir": "$rootDir/src/modules" }
         ]
     },
-    "bundleConfig": {
-        "exclude": [
-            "lwc",
-            "@lwc/synthetic-shadow"
-        ]
-    },
     "layoutsDir": "$rootDir/src/layouts",
     "routes": [
         {
