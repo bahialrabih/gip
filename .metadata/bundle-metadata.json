@@ -1,0 +1,50 @@
+{
+  "bundles": {
+    "example/app|v/0_0_1": {
+      "version": "0.0.1",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/sha256-Br7jy2dkVcQQ1N44NqU7dFlP37aRz_MZs6t6HuFoS3g/bundle_example_app.js",
+      "includedModules": [],
+      "imports": [
+        "lwc|v/8_26_0"
+      ],
+      "dynamicImports": [],
+      "integrity": "sha256-Br7jy2dkVcQQ1N44NqU7dFlP37aRz/MZs6t6HuFoS3g="
+    },
+    "@lwrjs/app-service/example/module/esm|v/0_18_3": {
+      "version": "0.18.3",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwrjs/app-service/example/module/esm/v/0_18_3/s/sha256-LKuNdxd1ZMbBty-5S0danPLCGRcVrK7QvVgTWcHcYtI/bundle_@lwrjs_app-service_example_module_esm.js",
+      "includedModules": [],
+      "imports": [
+        "lwr/esmLoader|v/0_18_3",
+        "lwr/profiler|v/0_18_3",
+        "lwc|v/8_26_0"
+      ],
+      "dynamicImports": [],
+      "integrity": "sha256-LKuNdxd1ZMbBty+5S0danPLCGRcVrK7QvVgTWcHcYtI="
+    },
+    "lwc|v/8_26_0": {
+      "version": "8.26.0",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwc/v/8_26_0/s/sha256-WBiEyqOi9qoGfA07GZWChkEg9kVn0bA3BfWWB7n3Nhk/bundle_lwc.js",
+      "includedModules": [],
+      "imports": [],
+      "dynamicImports": [],
+      "integrity": "sha256-WBiEyqOi9qoGfA07GZWChkEg9kVn0bA3BfWWB7n3Nhk="
+    },
+    "lwr/esmLoader|v/0_18_3": {
+      "version": "0.18.3",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/esmLoader/v/0_18_3/s/sha256-XZ3-fTIQeMpr-t515p72MK4vr6gSnXsH3O_YELtRaFw/bundle_lwr_esmLoader.js",
+      "includedModules": [],
+      "imports": [],
+      "dynamicImports": [],
+      "integrity": "sha256-XZ3+fTIQeMpr+t515p72MK4vr6gSnXsH3O/YELtRaFw="
+    },
+    "lwr/profiler|v/0_18_3": {
+      "version": "0.18.3",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/profiler/v/0_18_3/s/sha256-kGLXJohj797McyfBP40zJ-_7G1vXcR4obQNMGxQNgGk/bundle_lwr_profiler.js",
+      "includedModules": [],
+      "imports": [],
+      "dynamicImports": [],
+      "integrity": "sha256-kGLXJohj797McyfBP40zJ+/7G1vXcR4obQNMGxQNgGk="
+    }
+  }
+}
