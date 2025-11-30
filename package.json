@@ -1,0 +1,23 @@
+{
+  "name": "lwc-github-pages",
+  "version": "1.0.0",
+  "description": "Lightning Web Components project using LWR for GitHub Pages",
+  "scripts": {
+    "build": "lwr build --mode prod",
+    "dev": "lwr dev",
+    "start": "lwr start"
+  },
+  "keywords": ["lwc", "lwr", "lightning-web-components"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "lwr": "^0.13.0",
+    "lwc": "^8.26.0"
+  },
+  "devDependencies": {
+    "@lwc/module-resolver": "^8.26.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
